@@ -1,0 +1,68 @@
+.HeadTop{
+    height: 50px;
+    background-color: beige;
+    border-bottom: 2px grey solid ;
+}
+
+.TopRight{
+    float: right;
+}
+.BottomRight{
+    float: right;
+    
+}
+.BottomPic{
+    float: right;
+    width: 50px;
+    height: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.SearchInfo{
+    padding-left: 100px;
+}
+
+.BigBody{
+    height: 100%;
+    width: 100%;
+}
+
+
+.MiddleBody{
+    margin-left:54.5px ;
+    margin-right:54.5px;
+    padding-top: 34px;
+    padding-bottom:34px ;
+    padding-left:15px ;
+    padding-right:15px ;
+    width: 1200px;
+    height: 1000px;
+}
+
+.SearchBut{
+
+    display:inline-block;
+}
+.right{
+    
+    
+    
+    align:right;
+}
+
+.MiddleBody{
+    margin-left:54.5px ;
+    margin-right:54.5px;
+    padding-top: 34px;
+    padding-bottom:34px ;
+    padding-left:15px ;
+    padding-right:15px ;
+}
+
+
+.ContentBox{
+    
+    margin-left: 20px ;
+    margin-right:20px ;
+}
